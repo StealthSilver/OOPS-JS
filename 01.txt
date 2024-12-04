@@ -1,0 +1,7 @@
+OOPS -> object oriennted programming
+
+01.js 
+
+to structure our code
+
+when we see that data in objects in repeating then we tend to create templates
