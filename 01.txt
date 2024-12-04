@@ -5,3 +5,15 @@ OOPS -> object oriennted programming
 to structure our code
 
 when we see that data in objects in repeating then we tend to create templates
+
+Object Prototypes : 
+
+prototypes are mechenism by which JS objects inherit features from one another.
+
+It is like a single template object that all objects inherit methods and properties from without having their own copy
+
+arr._proto_ (refrence)
+
+Array.prototype (actual object)
+
+String.prototype
