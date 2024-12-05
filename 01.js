@@ -1,3 +1,5 @@
+// repetitive objects
+
 const stu1 = {
     name: "pogo",
     age: 2,
