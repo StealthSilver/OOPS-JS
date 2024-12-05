@@ -6,6 +6,8 @@ to structure our code
 
 when we see that data in objects in repeating then we tend to create templates
 
+02.js
+
 Object Prototypes : 
 
 prototypes are mechenism by which JS objects inherit features from one another.
@@ -17,3 +19,7 @@ arr._proto_ (refrence)
 Array.prototype (actual object)
 
 String.prototype
+
+03.js
+
+factory functions -> a function that creates objects
